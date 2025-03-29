@@ -1,0 +1,45 @@
+    /* General Styles */
+body {
+    font-family: Times New Roman;
+    margin: 0;
+    padding: 0;
+    background-color: #87ceeb;
+    color: #FFFAACA;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* Header styling */
+h1 {
+    background-color: #ff69b4;
+    color: black;
+    padding: 1rem 0;
+    margin: 0;
+    font-size-transform: uppercase;
+}
+
+/* Image styling */
+img {
+    border: 3px solid #ddd;
+    border-radius: 50%;
+    margin: 1rem auto;
+    display: block;
+}
+
+/* Paragraph and label styling */
+p {
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    text-align: justify;
+}
+
+b {
+    color: #ffffff;
+}
+
+/* Section headers */
+h2 {
+    margin-top: 2rem;
+    color: #000000;
+    text-align: justify;
+}
